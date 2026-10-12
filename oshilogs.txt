@@ -12,213 +12,82 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Raita =====
-[1]Raita       |08:39:22 | 11-10-2026| login OK @mraitaa | score=940 rank=6208
-[1]Raita       |08:39:22 | 11-10-2026| serverTime=2026-10-11T08:39:22.000Z local=2026-10-11T08:39:22.791Z
+[1]Raita       |15:01:39 | 12-10-2026| login OK @mraitaa | score=990 rank=6219
+[1]Raita       |15:01:39 | 12-10-2026| serverTime=2026-10-12T15:01:39.000Z local=2026-10-12T15:01:39.660Z
 --> [1]Raita menjalankan: Claim Daily
-[1]Raita       |08:39:23 | 11-10-2026| daily: sudah klaim (already=true) score=940
---> [1]Raita menjalankan: Auto All Tasks (3 pending)
-[1]Raita       |08:39:26 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109201599302557663
-[1]Raita       |08:39:26 | 11-10-2026| delay 10s...
-[1]Raita       |08:39:39 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109201896035730677
-[1]Raita       |08:39:39 | 11-10-2026| delay 10s...
-[1]Raita       |08:39:53 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109201806464795238
-[1]Raita       |08:39:53 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Raita       |08:39:55 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/mraitaa/status/2109201905155996844
+[1]Raita       |15:01:40 | 12-10-2026| daily: OK +10 poin score=1000
+--> [1]Raita menjalankan: Auto All Tasks (9 pending)
+[1]Raita       |15:01:42 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109660254529807063
+[1]Raita       |15:01:42 | 12-10-2026| delay 10s...
+[1]Raita       |15:01:56 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109660492745296904
+[1]Raita       |15:01:56 | 12-10-2026| delay 10s...
+[1]Raita       |15:02:08 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109660422632433218
+[1]Raita       |15:02:08 | 12-10-2026| delay 10s...
+[1]Raita       |15:02:20 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109660354869192632
+[1]Raita       |15:02:20 | 12-10-2026| delay 10s...
+[1]Raita       |15:02:32 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Raita       |15:02:32 | 12-10-2026| delay 10s...
+[1]Raita       |15:02:44 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109660771309634909
+[1]Raita       |15:02:44 | 12-10-2026| delay 10s...
+[1]Raita       |15:02:56 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109660578102960780
+[1]Raita       |15:02:56 | 12-10-2026| delay 10s...
+[1]Raita       |15:03:07 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mraitaa/status/2109660689188961469
+[1]Raita       |15:03:07 | 12-10-2026| delay 10s...
+[1]Raita       |15:03:19 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Raita       |15:03:19 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Raita       |15:03:21 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/mraitaa/status/2109660876068624811
 --> [1]Raita menjalankan: Watch Anime
-[1]Raita       |08:39:59 | 11-10-2026| watch: 3 video belum completed: oshi-first-journey,ep4,ep5
-[1]Raita       |08:39:59 | 11-10-2026| watch [1/3] farming oshi-first-journey...
-[1]Raita       |08:40:01 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Raita       |08:40:08 | 11-10-2026| watch oshi-first-journey: 6% (5.42/87.00s)
-[1]Raita       |08:40:19 | 11-10-2026| watch oshi-first-journey: 13% (12.08/87.00s)
-[1]Raita       |08:40:27 | 11-10-2026| watch oshi-first-journey: 13% (12.08/87.00s)
-[1]Raita       |08:40:33 | 11-10-2026| watch oshi-first-journey: 21% (18.85/87.00s)
-[1]Raita       |08:40:43 | 11-10-2026| watch oshi-first-journey: 28% (24.51/87.00s)
-[1]Raita       |08:40:52 | 11-10-2026| watch oshi-first-journey: 38% (33.15/87.00s)
-[1]Raita       |08:40:59 | 11-10-2026| watch oshi-first-journey: 45% (39.96/87.00s)
-[1]Raita       |08:41:06 | 11-10-2026| watch oshi-first-journey: 52% (46.09/87.00s)
-[1]Raita       |08:41:14 | 11-10-2026| watch oshi-first-journey: 60% (52.33/87.00s)
-[1]Raita       |08:41:24 | 11-10-2026| watch oshi-first-journey: 68% (59.89/87.00s)
-[1]Raita       |08:41:34 | 11-10-2026| watch oshi-first-journey: 78% (68.71/87.00s)
-[1]Raita       |08:41:40 | 11-10-2026| watch oshi-first-journey: 86% (75.28/87.00s)
-[1]Raita       |08:42:22 | 11-10-2026| watch oshi-first-journey: posisi mentok tanpa completed, stop
-[1]Raita       |08:42:27 | 11-10-2026| watch [2/3] farming ep4...
-[1]Raita       |08:42:30 | 11-10-2026| watch ep4: mulai dari 0 (record 307.8s diabaikan)
-[1]Raita       |08:42:35 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:42:42 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:42:48 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:42:56 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:43:02 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:43:09 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:43:16 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:43:23 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:43:31 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:43:38 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:43:46 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:43:55 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:44:02 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:44:11 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:44:25 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:44:34 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:44:42 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:44:49 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:44:55 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:45:01 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:45:09 | 11-10-2026| watch ep4: 87% (307.82/353.00s)
-[1]Raita       |08:45:15 | 11-10-2026| watch ep4: 87% (307.98/353.00s)
-[1]Raita       |08:45:24 | 11-10-2026| watch ep4: 87% (307.98/353.00s)
-[1]Raita       |08:45:33 | 11-10-2026| watch ep4: 87% (307.98/353.00s)
-[1]Raita       |08:45:41 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:45:49 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:45:57 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:46:06 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:46:12 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:46:20 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:46:27 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:46:34 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:46:42 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:46:49 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:46:55 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:47:03 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:47:12 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:47:20 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:47:28 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:47:36 | 11-10-2026| watch ep4: 87% (308.45/353.00s)
-[1]Raita       |08:47:47 | 11-10-2026| watch ep4: 87% (308.84/353.00s)
-[1]Raita       |08:47:56 | 11-10-2026| watch ep4: 87% (308.84/353.00s)
-[1]Raita       |08:48:04 | 11-10-2026| watch ep4: 87% (308.84/353.00s)
-[1]Raita       |08:48:11 | 11-10-2026| watch ep4: 87% (308.84/353.00s)
-[1]Raita       |08:48:19 | 11-10-2026| watch ep4: 88% (311.78/353.00s)
-[1]Raita       |08:48:28 | 11-10-2026| watch ep4: 90% (318.97/353.00s)
-[1]Raita       |08:48:28 | 11-10-2026| watch ep4: COMPLETED (318.97/353.00s)
-[1]Raita       |08:48:33 | 11-10-2026| watch [3/3] farming ep5...
-[1]Raita       |08:48:34 | 11-10-2026| watch ep5: mulai dari 0 (record 157.0s diabaikan)
-[1]Raita       |08:48:35 | 11-10-2026| watch ep5: 39% (157.03/396.00s)
-[1]Raita       |08:48:43 | 11-10-2026| watch ep5: 39% (157.03/396.00s)
-[1]Raita       |08:48:49 | 11-10-2026| watch ep5: 39% (157.35/396.00s)
-[1]Raita       |08:48:56 | 11-10-2026| watch ep5: 39% (157.35/396.00s)
-[1]Raita       |08:49:02 | 11-10-2026| watch ep5: 39% (157.35/396.00s)
-[1]Raita       |08:49:09 | 11-10-2026| watch ep5: 39% (157.86/396.00s)
-[1]Raita       |08:49:17 | 11-10-2026| watch ep5: 39% (157.86/396.00s)
-[1]Raita       |08:49:24 | 11-10-2026| watch ep5: 40% (159.19/396.00s)
-[1]Raita       |08:49:30 | 11-10-2026| watch ep5: 40% (159.19/396.00s)
-[1]Raita       |08:49:37 | 11-10-2026| watch ep5: 40% (159.19/396.00s)
-[1]Raita       |08:49:44 | 11-10-2026| watch ep5: 40% (159.19/396.00s)
-[1]Raita       |08:49:51 | 11-10-2026| watch ep5: 40% (159.19/396.00s)
-[1]Raita       |08:49:59 | 11-10-2026| watch ep5: 40% (159.19/396.00s)
-[1]Raita       |08:50:06 | 11-10-2026| watch ep5: 40% (159.19/396.00s)
-[1]Raita       |08:50:13 | 11-10-2026| watch ep5: 40% (161.24/396.00s)
-[1]Raita       |08:50:20 | 11-10-2026| watch ep5: 40% (161.24/396.00s)
-[1]Raita       |08:50:26 | 11-10-2026| watch ep5: 40% (161.24/396.00s)
-[1]Raita       |08:50:34 | 11-10-2026| watch ep5: 40% (161.24/396.00s)
-[1]Raita       |08:50:41 | 11-10-2026| watch ep5: 40% (162.24/396.00s)
-[1]Raita       |08:50:48 | 11-10-2026| watch ep5: 42% (168.36/396.00s)
-[1]Raita       |08:50:54 | 11-10-2026| watch ep5: 43% (171.47/396.00s)
-[1]Raita       |08:51:01 | 11-10-2026| watch ep5: 43% (171.47/396.00s)
-[1]Raita       |08:51:07 | 11-10-2026| watch ep5: 43% (172.42/396.00s)
-[1]Raita       |08:51:15 | 11-10-2026| watch ep5: 43% (172.42/396.00s)
-[1]Raita       |08:51:22 | 11-10-2026| watch ep5: 43% (172.42/396.00s)
-[1]Raita       |08:51:28 | 11-10-2026| watch ep5: 43% (172.42/396.00s)
-[1]Raita       |08:51:37 | 11-10-2026| watch ep5: 43% (172.42/396.00s)
-[1]Raita       |08:51:44 | 11-10-2026| watch ep5: 43% (173.37/396.00s)
-[1]Raita       |08:51:51 | 11-10-2026| watch ep5: 44% (175.54/396.00s)
-[1]Raita       |08:51:58 | 11-10-2026| watch ep5: 45% (181.70/396.00s)
-[1]Raita       |08:52:08 | 11-10-2026| watch ep5: 47% (188.09/396.00s)
-[1]Raita       |08:52:15 | 11-10-2026| watch ep5: 49% (196.31/396.00s)
-[1]Raita       |08:52:21 | 11-10-2026| watch ep5: 51% (202.20/396.00s)
-[1]Raita       |08:52:29 | 11-10-2026| watch ep5: 52% (207.85/396.00s)
-[1]Raita       |08:52:37 | 11-10-2026| watch ep5: 54% (214.69/396.00s)
-[1]Raita       |08:52:44 | 11-10-2026| watch ep5: 55% (221.19/396.00s)
-[1]Raita       |08:52:51 | 11-10-2026| watch ep5: 57% (226.95/396.00s)
-[1]Raita       |08:52:59 | 11-10-2026| watch ep5: 58% (233.21/396.00s)
-[1]Raita       |08:53:07 | 11-10-2026| watch ep5: 60% (240.70/396.00s)
-[1]Raita       |08:53:14 | 11-10-2026| watch ep5: 62% (247.71/396.00s)
-[1]Raita       |08:53:21 | 11-10-2026| watch ep5: 64% (253.96/396.00s)
-[1]Raita       |08:53:27 | 11-10-2026| watch ep5: 65% (260.14/396.00s)
-[1]Raita       |08:53:33 | 11-10-2026| watch ep5: 67% (265.84/396.00s)
-[1]Raita       |08:53:41 | 11-10-2026| watch ep5: 68% (271.77/396.00s)
-[1]Raita       |08:53:48 | 11-10-2026| watch ep5: 70% (278.72/396.00s)
-[1]Raita       |08:53:56 | 11-10-2026| watch ep5: 71% (284.77/396.00s)
-[1]Raita       |08:54:03 | 11-10-2026| watch ep5: 73% (291.68/396.00s)
-[1]Raita       |08:54:09 | 11-10-2026| watch ep5: 75% (297.85/396.00s)
-[1]Raita       |08:54:16 | 11-10-2026| watch ep5: 76% (303.47/396.00s)
-[1]Raita       |08:54:25 | 11-10-2026| watch ep5: 78% (309.71/396.00s)
-[1]Raita       |08:54:32 | 11-10-2026| watch ep5: 79% (316.45/396.00s)
-[1]Raita       |08:54:39 | 11-10-2026| watch ep5: 81% (322.51/396.00s)
-[1]Raita       |08:54:47 | 11-10-2026| watch ep5: 82% (328.64/396.00s)
-[1]Raita       |08:54:57 | 11-10-2026| watch ep5: 84% (336.03/396.00s)
-[1]Raita       |08:55:03 | 11-10-2026| watch ep5: 84% (336.03/396.00s)
-[1]Raita       |08:55:12 | 11-10-2026| watch ep5: 86% (341.70/396.00s)
-[1]Raita       |08:55:19 | 11-10-2026| watch ep5: 88% (348.96/396.00s)
-[1]Raita       |08:55:29 | 11-10-2026| watch ep5: 89% (355.10/396.00s)
-[1]Raita       |08:55:36 | 11-10-2026| watch ep5: 91% (361.96/396.00s)
-[1]Raita       |08:55:36 | 11-10-2026| watch ep5: COMPLETED (361.96/396.00s)
+[1]Raita       |15:03:21 | 12-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Raita       |15:03:21 | 12-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Raita       |15:03:22 | 12-10-2026| watch oshi-first-journey: mulai dari 0 (record 75.3s diabaikan)
+[1]Raita       |15:03:23 | 12-10-2026| watch oshi-first-journey: 86% (75.28/87.00s)
+[1]Raita       |15:03:28 | 12-10-2026| watch oshi-first-journey: 86% (75.28/87.00s)
+[1]Raita       |15:03:35 | 12-10-2026| watch oshi-first-journey: 86% (75.28/87.00s)
+[1]Raita       |15:03:41 | 12-10-2026| watch oshi-first-journey: 91% (79.45/87.00s)
+[1]Raita       |15:03:41 | 12-10-2026| watch oshi-first-journey: COMPLETED (79.45/87.00s)
 --> [1]Raita menjalankan: Read Article
-[1]Raita       |08:55:39 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Raita       |08:55:41 | 11-10-2026| mint eligibility: {"userId":"1886839087262523394","youtube":{"url":"https://www.youtube.com/@mraitaa","status":"submitted","revision":"d81cea93-7df6-4d3b-b00d-bcaf2d2ca5c3","submittedAt":1791681382,"reviewedAt":1791692
-[1]Raita       |08:55:41 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Raita       |15:03:43 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Raita       |15:03:43 | 12-10-2026| mint eligibility: {"userId":"1886839087262523394","youtube":{"url":"https://www.youtube.com/@mraitaa","status":"submitted","revision":"d81cea93-7df6-4d3b-b00d-bcaf2d2ca5c3","submittedAt":1791681382,"reviewedAt":1791692
+[1]Raita       |15:03:43 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Raita menjalankan: Quiz Anime
-[1]Raita       |08:55:43 | 11-10-2026| quiz ep1: sudah dijawab
-[1]Raita       |08:55:43 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Raita       |08:55:43 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Raita       |08:55:50 | 11-10-2026| quiz ep4: BENAR (3) +10 poin
-[1]Raita       |08:55:56 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
-[1]Raita       |08:55:59 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Raita       |15:03:44 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Raita       |15:03:44 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Raita       |15:03:44 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Raita       |15:03:44 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Raita       |15:03:44 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Raita       |15:03:44 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Raita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Raita       |08:56:03 | 11-10-2026| music: kedua misi sudah tercapai, stop
-[1]Raita       |08:56:04 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Raita       |08:56:04 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raita       |08:56:04 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raita       |15:03:46 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Raita       |15:03:47 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Raita       |15:03:47 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raita       |15:03:47 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raita menjalankan: Claim Missions
-[1]Raita       |08:56:04 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Raita       |08:56:04 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raita       |08:56:04 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raita       |15:03:47 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Raita       |15:03:47 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raita       |15:03:47 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raita menjalankan: Check Eligibility
 
 --- eligibility [1]Raita ---
-  @mraitaa | score=940 rank=6208
-  tasks    [###################-] 73/76
+  @mraitaa | score=990 rank=6219
+  tasks    [##################--] 70/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 17/17
+  watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=false mintOpen=false discord=true
+  mint: requirementsMet=true mintOpen=false discord=true
 
 --> [1]Raita menjalankan: Read Manga
-[1]Raita       |08:56:11 | 11-10-2026| manga: 2/13 chapter belum completed
-[1]Raita       |08:56:11 | 11-10-2026| manga [1/2] membaca ch.1 (9 hal)...
-[1]Raita       |08:56:17 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 58s
-[1]Raita       |08:56:23 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 63s
-[1]Raita       |08:56:28 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 69s
-[1]Raita       |08:56:32 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 73s
-[1]Raita       |08:56:38 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 78s
-[1]Raita       |08:56:42 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 83s
-[1]Raita       |08:56:47 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 87s
-[1]Raita       |08:56:52 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 92s
-[1]Raita       |08:56:56 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 97s
-[1]Raita       |08:56:56 | 11-10-2026| manga ch1 (2100001): COMPLETED
-[1]Raita       |08:56:59 | 11-10-2026| manga [2/2] membaca ch.2 (11 hal)...
-[1]Raita       |08:57:06 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 70s
-[1]Raita       |08:57:11 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 75s
-[1]Raita       |08:57:16 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 80s
-[1]Raita       |08:57:21 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 85s
-[1]Raita       |08:57:25 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 89s
-[1]Raita       |08:57:31 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 94s
-[1]Raita       |08:57:38 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 99s
-[1]Raita       |08:57:43 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 106s
-[1]Raita       |08:57:48 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 112s
-[1]Raita       |08:57:54 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 117s
-[1]Raita       |08:57:59 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 122s
-[1]Raita       |08:57:59 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Raita       |15:03:51 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Raita menjalankan: Get Gift
-[1]Raita       |08:58:03 | 11-10-2026| gift: 0/3 belum diterima
+[1]Raita       |15:03:52 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Raita menjalankan: Setup Profile
-[1]Raita       |08:58:04 | 11-10-2026| profile: bio="https://x.com/mraitaa" fav=kagura rewardAt=1791693649
-[1]Raita       |08:58:04 | 11-10-2026| profile: bonus sudah diklaim, skip
+[1]Raita       |15:03:52 | 12-10-2026| profile: bio="https://x.com/mraitaa" fav=kagura rewardAt=1791693649
+[1]Raita       |15:03:52 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Raita menjalankan: Bind Wallet
-[1]Raita       |08:58:04 | 11-10-2026| wallet: sudah terikat DSGoE1KVcF... (solana)
+[1]Raita       |15:03:53 | 12-10-2026| wallet: sudah terikat DSGoE1KVcF... (solana)
 
 == RINGKASAN ==
-- Raita: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+20pt) | watch 2/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 2/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Raita: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
