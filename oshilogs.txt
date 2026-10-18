@@ -12,52 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Raita =====
-[1]Raita       |08:19:39 | 17-10-2026| login OK @mraitaa | score=1330 rank=4882
-[1]Raita       |08:19:39 | 17-10-2026| serverTime=2026-10-17T08:19:39.000Z local=2026-10-17T08:19:39.229Z
+[1]Raita       |09:22:19 | 18-10-2026| login OK @mraitaa | score=1370 rank=4877
+[1]Raita       |09:22:19 | 18-10-2026| serverTime=2026-10-18T09:22:18.000Z local=2026-10-18T09:22:19.262Z
 --> [1]Raita menjalankan: Claim Daily
-[1]Raita       |08:19:40 | 17-10-2026| daily: OK +10 poin score=1340
---> [1]Raita menjalankan: Auto All Tasks (3 pending)
-[1]Raita       |08:19:42 | 17-10-2026| [1/3] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mraitaa/status/2111371187897608401
-[1]Raita       |08:19:42 | 17-10-2026| delay 10s...
-[1]Raita       |08:19:54 | 17-10-2026| [2/3] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mraitaa/status/2111371078733947686
-[1]Raita       |08:19:54 | 17-10-2026| delay 10s...
-[1]Raita       |08:20:07 | 17-10-2026| [3/3] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/mraitaa/status/2111371121719357972
-[1]Raita       |08:20:07 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Raita       |08:20:09 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/mraitaa/status/2111371054835938613
+[1]Raita       |09:22:20 | 18-10-2026| daily: OK +10 poin score=1380
+--> [1]Raita menjalankan: Auto All Tasks (5 pending)
+[1]Raita       |09:22:25 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/mraitaa/status/2111749347669583994
+[1]Raita       |09:22:25 | 18-10-2026| delay 10s...
+[1]Raita       |09:22:37 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/mraitaa/status/2111749244376295351
+[1]Raita       |09:22:37 | 18-10-2026| delay 10s...
+[1]Raita       |09:22:49 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/mraitaa/status/2111749565685816103
+[1]Raita       |09:22:49 | 18-10-2026| delay 10s...
+[1]Raita       |09:23:02 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Raita       |09:23:02 | 18-10-2026| delay 10s...
+[1]Raita       |09:23:15 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/mraitaa/status/2111749431199459422
+[1]Raita       |09:23:15 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Raita       |09:23:18 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/mraitaa/status/2111749393330381863
 --> [1]Raita menjalankan: Watch Anime
-[1]Raita       |08:20:10 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Raita       |08:20:10 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Raita       |08:20:11 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Raita       |08:20:16 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Raita       |08:20:18 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Raita       |08:20:23 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Raita       |08:20:25 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Raita       |09:23:19 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Raita       |09:23:19 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Raita       |09:23:22 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Raita       |09:23:27 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Raita       |09:23:33 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Raita       |09:23:38 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Raita       |09:23:39 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Raita       |09:23:44 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Raita       |09:23:46 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Raita menjalankan: Read Article
-[1]Raita       |08:20:26 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Raita       |08:20:26 | 17-10-2026| mint eligibility: {"userId":"1886839087262523394","youtube":{"url":"https://www.youtube.com/@mraitaa","status":"submitted","revision":"d81cea93-7df6-4d3b-b00d-bcaf2d2ca5c3","submittedAt":1791681382,"reviewedAt":1791692
-[1]Raita       |08:20:26 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Raita       |09:23:48 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Raita       |09:23:49 | 18-10-2026| mint eligibility: {"userId":"1886839087262523394","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mraitaa","status":"submitted","revision":"d81cea93-7df6-4d3b-b00d-bcaf2d2ca5c3",
+[1]Raita       |09:23:49 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Raita menjalankan: Quiz Anime
-[1]Raita       |08:20:27 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Raita       |08:20:27 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Raita       |08:20:27 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Raita       |08:20:27 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Raita       |08:20:27 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Raita       |08:20:27 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Raita       |09:23:50 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Raita       |09:23:50 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Raita       |09:23:50 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Raita       |09:23:50 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Raita       |09:23:50 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Raita       |09:23:50 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Raita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Raita       |08:20:29 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Raita       |08:20:30 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Raita       |08:20:30 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raita       |08:20:30 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raita       |09:23:52 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Raita       |09:23:52 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Raita       |09:23:52 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raita       |09:23:52 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raita menjalankan: Claim Missions
-[1]Raita       |08:20:30 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Raita       |08:20:30 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raita       |08:20:30 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raita       |09:23:53 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Raita       |09:23:53 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raita       |09:23:53 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raita menjalankan: Check Eligibility
 
 --- eligibility [1]Raita ---
-  @mraitaa | score=1330 rank=4882
-  tasks    [###################-] 76/79
+  @mraitaa | score=1370 rank=4877
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Raita menjalankan: Read Manga
-[1]Raita       |08:20:34 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Raita       |09:23:58 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Raita menjalankan: Get Gift
-[1]Raita       |08:20:35 | 17-10-2026| gift: 0/4 belum diterima
+[1]Raita       |09:23:58 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Raita menjalankan: Setup Profile
-[1]Raita       |08:20:35 | 17-10-2026| profile: bio="https://x.com/mraitaa" fav=kagura rewardAt=1791693649
-[1]Raita       |08:20:35 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Raita       |09:23:59 | 18-10-2026| profile: bio="https://x.com/mraitaa" fav=kagura rewardAt=1791693649
+[1]Raita       |09:23:59 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Raita menjalankan: Bind Wallet
-[1]Raita       |08:20:36 | 17-10-2026| wallet: sudah terikat DSGoE1KVcF... (solana)
+[1]Raita       |09:23:59 | 18-10-2026| wallet: sudah terikat DSGoE1KVcF... (solana)
 
 == RINGKASAN ==
-- Raita: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Raita: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
