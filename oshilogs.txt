@@ -12,135 +12,128 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Raita =====
-[1]Raita       |09:50:37 | 20-10-2026| login OK @mraitaa | score=1530 rank=4595
-[1]Raita       |09:50:37 | 20-10-2026| serverTime=2026-10-20T09:50:37.000Z local=2026-10-20T09:50:37.882Z
+[1]Raita       |09:46:03 | 22-10-2026| login OK @mraitaa | score=1590 rank=4551
+[1]Raita       |09:46:03 | 22-10-2026| serverTime=2026-10-22T09:46:03.000Z local=2026-10-22T09:46:03.510Z
 --> [1]Raita menjalankan: Claim Daily
-[1]Raita       |09:50:39 | 20-10-2026| daily: OK +10 poin score=1540
---> [1]Raita menjalankan: Auto All Tasks (5 pending)
-[1]Raita       |09:50:41 | 20-10-2026| [1/5] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mraitaa/status/2112481315004772948
-[1]Raita       |09:50:41 | 20-10-2026| delay 10s...
-[1]Raita       |09:50:53 | 20-10-2026| [2/5] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mraitaa/status/2112481338124761956
-[1]Raita       |09:50:53 | 20-10-2026| delay 10s...
-[1]Raita       |09:51:05 | 20-10-2026| [3/5] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mraitaa/status/2112481233928100371
-[1]Raita       |09:51:05 | 20-10-2026| delay 10s...
-[1]Raita       |09:51:18 | 20-10-2026| [4/5] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mraitaa/status/2112481329510140177
-[1]Raita       |09:51:18 | 20-10-2026| delay 10s...
-[1]Raita       |09:51:29 | 20-10-2026| [5/5] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mraitaa/status/2112481277450188274
-[1]Raita       |09:51:29 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Raita       |09:51:31 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/mraitaa/status/2112481298028563348
+[1]Raita       |09:46:04 | 22-10-2026| daily: OK +10 poin score=1600
+--> [1]Raita menjalankan: Auto All Tasks (13 pending)
+[1]Raita       |09:46:06 | 22-10-2026| [1/13] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113204689550858662
+[1]Raita       |09:46:06 | 22-10-2026| delay 10s...
+[1]Raita       |09:46:19 | 22-10-2026| [2/13] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113204726777325221
+[1]Raita       |09:46:19 | 22-10-2026| delay 10s...
+[1]Raita       |09:46:31 | 22-10-2026| [3/13] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205073206709142
+[1]Raita       |09:46:31 | 22-10-2026| delay 10s...
+[1]Raita       |09:46:43 | 22-10-2026| [4/13] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113204922011377382
+[1]Raita       |09:46:43 | 22-10-2026| delay 10s...
+[1]Raita       |09:46:55 | 22-10-2026| [5/13] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205115747194266
+[1]Raita       |09:46:55 | 22-10-2026| delay 10s...
+[1]Raita       |09:47:07 | 22-10-2026| [6/13] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205065094196948
+[1]Raita       |09:47:07 | 22-10-2026| delay 10s...
+[1]Raita       |09:47:19 | 22-10-2026| [7/13] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205045400384517
+[1]Raita       |09:47:19 | 22-10-2026| delay 10s...
+[1]Raita       |09:47:32 | 22-10-2026| [8/13] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205003281465155
+[1]Raita       |09:47:32 | 22-10-2026| delay 10s...
+[1]Raita       |09:47:44 | 22-10-2026| [9/13] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205115591157173
+[1]Raita       |09:47:44 | 22-10-2026| delay 10s...
+[1]Raita       |09:47:56 | 22-10-2026| [10/13] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205212103921503
+[1]Raita       |09:47:56 | 22-10-2026| delay 10s...
+[1]Raita       |09:48:08 | 22-10-2026| [11/13] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205241158596004
+[1]Raita       |09:48:08 | 22-10-2026| delay 10s...
+[1]Raita       |09:48:20 | 22-10-2026| [12/13] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mraitaa/status/2113205493227866586
+[1]Raita       |09:48:20 | 22-10-2026| delay 10s...
+[1]Raita       |09:48:32 | 22-10-2026| [13/13] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
+[1]Raita       |09:48:32 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Raita       |09:48:33 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/mraitaa/status/2113205253273396408
 --> [1]Raita menjalankan: Watch Anime
-[1]Raita       |09:51:32 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Raita       |09:51:32 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Raita       |09:51:34 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Raita       |09:51:40 | 20-10-2026| watch oshi-captains-hat: 5% (5.25/92.00s)
-[1]Raita       |09:51:47 | 20-10-2026| watch oshi-captains-hat: 11% (10.86/92.00s)
-[1]Raita       |09:51:53 | 20-10-2026| watch oshi-captains-hat: 18% (16.68/92.00s)
-[1]Raita       |09:51:59 | 20-10-2026| watch oshi-captains-hat: 24% (22.22/92.00s)
-[1]Raita       |09:52:05 | 20-10-2026| watch oshi-captains-hat: 30% (27.79/92.00s)
-[1]Raita       |09:52:13 | 20-10-2026| watch oshi-captains-hat: 36% (33.34/92.00s)
-[1]Raita       |09:52:19 | 20-10-2026| watch oshi-captains-hat: 43% (39.79/92.00s)
-[1]Raita       |09:52:26 | 20-10-2026| watch oshi-captains-hat: 49% (45.29/92.00s)
-[1]Raita       |09:52:32 | 20-10-2026| watch oshi-captains-hat: 55% (51.43/92.00s)
-[1]Raita       |09:52:38 | 20-10-2026| watch oshi-captains-hat: 62% (57.31/92.00s)
-[1]Raita       |09:52:44 | 20-10-2026| watch oshi-captains-hat: 68% (62.88/92.00s)
-[1]Raita       |09:52:51 | 20-10-2026| watch oshi-captains-hat: 74% (68.49/92.00s)
-[1]Raita       |09:52:58 | 20-10-2026| watch oshi-captains-hat: 80% (74.39/92.00s)
-[1]Raita       |09:53:04 | 20-10-2026| watch oshi-captains-hat: 87% (80.60/92.00s)
-[1]Raita       |09:53:10 | 20-10-2026| watch oshi-captains-hat: 93% (86.22/92.00s)
-[1]Raita       |09:53:10 | 20-10-2026| watch oshi-captains-hat: COMPLETED (86.22/92.00s)
-[1]Raita       |09:53:15 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Raita       |09:53:18 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Raita       |09:53:24 | 20-10-2026| watch oshi-rainbow-star: 6% (5.75/86.00s)
-[1]Raita       |09:53:30 | 20-10-2026| watch oshi-rainbow-star: 13% (11.30/86.00s)
-[1]Raita       |09:53:37 | 20-10-2026| watch oshi-rainbow-star: 19% (16.87/86.00s)
-[1]Raita       |09:53:47 | 20-10-2026| watch oshi-rainbow-star: 26% (23.05/86.00s)
-[1]Raita       |09:53:53 | 20-10-2026| watch oshi-rainbow-star: 26% (23.05/86.00s)
-[1]Raita       |09:53:59 | 20-10-2026| watch oshi-rainbow-star: 33% (28.69/86.00s)
-[1]Raita       |09:54:06 | 20-10-2026| watch oshi-rainbow-star: 39% (34.21/86.00s)
-[1]Raita       |09:54:12 | 20-10-2026| watch oshi-rainbow-star: 46% (40.19/86.00s)
-[1]Raita       |09:54:19 | 20-10-2026| watch oshi-rainbow-star: 53% (45.95/86.00s)
-[1]Raita       |09:54:25 | 20-10-2026| watch oshi-rainbow-star: 60% (52.20/86.00s)
-[1]Raita       |09:54:32 | 20-10-2026| watch oshi-rainbow-star: 67% (57.87/86.00s)
-[1]Raita       |09:54:40 | 20-10-2026| watch oshi-rainbow-star: 74% (63.77/86.00s)
-[1]Raita       |09:54:46 | 20-10-2026| watch oshi-rainbow-star: 82% (71.20/86.00s)
-[1]Raita       |09:54:53 | 20-10-2026| watch oshi-rainbow-star: 89% (76.67/86.00s)
-[1]Raita       |09:55:00 | 20-10-2026| watch oshi-rainbow-star: 89% (77.16/86.00s)
-[1]Raita       |09:55:42 | 20-10-2026| watch oshi-rainbow-star: posisi mentok tanpa completed, stop
-[1]Raita       |09:55:47 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Raita       |09:55:49 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Raita       |09:55:55 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.32/87.00s)
-[1]Raita       |09:56:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.87/87.00s)
-[1]Raita       |09:56:09 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (17.08/87.00s)
-[1]Raita       |09:56:15 | 20-10-2026| watch oshi-rainbow-lighthouse: 26% (23.20/87.00s)
-[1]Raita       |09:56:21 | 20-10-2026| watch oshi-rainbow-lighthouse: 33% (28.76/87.00s)
-[1]Raita       |09:56:28 | 20-10-2026| watch oshi-rainbow-lighthouse: 39% (34.37/87.00s)
-[1]Raita       |09:56:34 | 20-10-2026| watch oshi-rainbow-lighthouse: 46% (40.60/87.00s)
-[1]Raita       |09:56:40 | 20-10-2026| watch oshi-rainbow-lighthouse: 53% (46.22/87.00s)
-[1]Raita       |09:56:47 | 20-10-2026| watch oshi-rainbow-lighthouse: 59% (51.73/87.00s)
-[1]Raita       |09:56:53 | 20-10-2026| watch oshi-rainbow-lighthouse: 65% (57.38/87.00s)
-[1]Raita       |09:56:59 | 20-10-2026| watch oshi-rainbow-lighthouse: 72% (63.02/87.00s)
-[1]Raita       |09:57:05 | 20-10-2026| watch oshi-rainbow-lighthouse: 78% (68.64/87.00s)
-[1]Raita       |09:57:12 | 20-10-2026| watch oshi-rainbow-lighthouse: 85% (74.28/87.00s)
-[1]Raita       |09:57:18 | 20-10-2026| watch oshi-rainbow-lighthouse: 92% (80.06/87.00s)
-[1]Raita       |09:57:18 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (80.06/87.00s)
-[1]Raita       |09:57:23 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Raita       |09:57:25 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Raita       |09:57:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.27/181.00s)
-[1]Raita       |09:57:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (10.87/181.00s)
-[1]Raita       |09:57:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.00/181.00s)
-[1]Raita       |09:57:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.68/181.00s)
-[1]Raita       |09:57:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.21/181.00s)
-[1]Raita       |09:58:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.84/181.00s)
-[1]Raita       |09:58:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.46/181.00s)
-[1]Raita       |09:58:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (45.16/181.00s)
-[1]Raita       |09:58:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (50.67/181.00s)
-[1]Raita       |09:58:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.48/181.00s)
-[1]Raita       |09:58:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.67/181.00s)
-[1]Raita       |09:58:41 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.23/181.00s)
-[1]Raita       |09:58:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: 40% (73.81/181.00s)
-[1]Raita       |09:58:53 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (79.34/181.00s)
-[1]Raita       |09:59:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.95/181.00s)
-[1]Raita       |09:59:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (90.46/181.00s)
-[1]Raita       |09:59:12 | 20-10-2026| watch bakeru-ikesou-jan-mv: 53% (96.00/181.00s)
-[1]Raita       |09:59:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.89/181.00s)
-[1]Raita       |09:59:25 | 20-10-2026| watch bakeru-ikesou-jan-mv: 59% (107.46/181.00s)
-[1]Raita       |09:59:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.99/181.00s)
-[1]Raita       |09:59:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.49/181.00s)
-[1]Raita       |09:59:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.72/181.00s)
-[1]Raita       |09:59:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 71% (130.31/181.00s)
-[1]Raita       |09:59:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 75% (136.31/181.00s)
-[1]Raita       |10:00:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 78% (142.00/181.00s)
-[1]Raita       |10:00:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
-[1]Raita       |10:00:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
+[1]Raita       |09:48:34 | 22-10-2026| watch: 2 video belum completed: oshi-rainbow-star,bakeru-ikesou-jan-mv
+[1]Raita       |09:48:34 | 22-10-2026| watch [1/2] farming oshi-rainbow-star...
+[1]Raita       |09:48:35 | 22-10-2026| watch oshi-rainbow-star: mulai dari 0 (record 77.2s diabaikan)
+[1]Raita       |09:48:36 | 22-10-2026| watch oshi-rainbow-star: 89% (77.16/86.00s)
+[1]Raita       |09:48:42 | 22-10-2026| watch oshi-rainbow-star: 89% (77.16/86.00s)
+[1]Raita       |09:48:49 | 22-10-2026| watch oshi-rainbow-star: 89% (77.16/86.00s)
+[1]Raita       |09:48:55 | 22-10-2026| watch oshi-rainbow-star: 89% (77.16/86.00s)
+[1]Raita       |09:49:01 | 22-10-2026| watch oshi-rainbow-star: 89% (77.16/86.00s)
+[1]Raita       |09:49:11 | 22-10-2026| watch oshi-rainbow-star: 95% (82.17/86.00s)
+[1]Raita       |09:49:11 | 22-10-2026| watch oshi-rainbow-star: COMPLETED (82.17/86.00s)
+[1]Raita       |09:49:16 | 22-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
+[1]Raita       |09:49:17 | 22-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 147.6s diabaikan)
+[1]Raita       |09:49:17 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:49:24 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:49:30 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:49:36 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:49:42 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:49:48 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:49:55 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:01 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:08 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:14 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:20 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:26 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:32 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:39 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:45 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:51 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:50:57 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:03 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:15 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:21 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:34 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:40 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:46 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:51:54 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:52:00 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.58/181.00s)
+[1]Raita       |09:52:06 | 22-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.11/181.00s)
+[1]Raita       |09:52:13 | 22-10-2026| watch bakeru-ikesou-jan-mv: 86% (156.97/181.00s)
+[1]Raita       |09:52:19 | 22-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.80/181.00s)
+[1]Raita       |09:52:25 | 22-10-2026| watch bakeru-ikesou-jan-mv: 93% (168.46/181.00s)
+[1]Raita       |09:52:25 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.46/181.00s)
 --> [1]Raita menjalankan: Read Article
-[1]Raita       |10:00:15 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raita       |09:52:27 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Raita       |09:52:28 | 22-10-2026| mint eligibility: {"userId":"1886839087262523394","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mraitaa","status":"submitted","revision":"d81cea93-7df6-4d3b-b00d-bcaf2d2ca5c3",
+[1]Raita       |09:52:34 | 22-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Raita       |09:52:42 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Raita       |09:52:50 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Raita menjalankan: Quiz Anime
-[1]Raita       |10:00:15 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raita       |09:52:53 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Raita       |09:52:53 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Raita       |09:52:53 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Raita       |09:52:53 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Raita       |09:52:53 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Raita       |09:52:53 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Raita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Raita       |10:00:15 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Raita       |10:00:16 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raita       |09:52:55 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Raita       |09:52:55 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Raita       |09:52:55 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raita       |09:52:55 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raita menjalankan: Claim Missions
-[1]Raita       |10:00:16 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raita       |09:52:56 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Raita       |09:52:56 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raita       |09:52:56 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raita menjalankan: Check Eligibility
 
 --- eligibility [1]Raita ---
-  @mraitaa | score=1530 rank=4595
-  tasks    [###################-] 74/79
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @mraitaa | score=1590 rank=4551
+  tasks    [#################---] 73/86
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Raita menjalankan: Read Manga
-[1]Raita       |10:00:17 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raita       |09:52:59 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Raita menjalankan: Get Gift
-[1]Raita       |10:00:18 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raita       |09:53:00 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Raita menjalankan: Setup Profile
-[1]Raita       |10:00:18 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raita       |09:53:00 | 22-10-2026| profile: bio="https://x.com/mraitaa" fav=kagura rewardAt=1791693649
+[1]Raita       |09:53:00 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Raita menjalankan: Bind Wallet
-[1]Raita       |10:00:18 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Raita       |09:53:01 | 22-10-2026| wallet: sudah terikat DSGoE1KVcF... (solana)
 
 == RINGKASAN ==
-- Raita: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Raita: daily=claimed | tasks OK 14/14 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
