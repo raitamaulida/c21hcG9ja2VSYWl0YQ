@@ -12,43 +12,43 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Raita =====
-[1]Raita       |08:44:14 | 06-11-2026| login OK @mraitaa | score=2820 rank=2816
-[1]Raita       |08:44:14 | 06-11-2026| serverTime=2026-11-06T08:44:14.000Z local=2026-11-06T08:44:14.114Z
+[1]Raita       |06:39:56 | 07-11-2026| login OK @mraitaa | score=2880 rank=2748
+[1]Raita       |06:39:56 | 07-11-2026| serverTime=2026-11-07T06:39:56.000Z local=2026-11-07T06:39:56.121Z
 --> [1]Raita menjalankan: Claim Daily
-[1]Raita       |08:44:15 | 06-11-2026| daily: OK +10 poin score=2830
+[1]Raita       |06:39:57 | 07-11-2026| daily: OK +10 poin score=2890
 --> [1]Raita menjalankan: Auto All Tasks (5 pending)
-[1]Raita       |08:44:17 | 06-11-2026| [1/5] 6795f466 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/mraitaa/status/2118624897195126758
-[1]Raita       |08:44:17 | 06-11-2026| delay 10s...
-[1]Raita       |08:44:29 | 06-11-2026| [2/5] bf0ad10d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/mraitaa/status/2118624990805137666
-[1]Raita       |08:44:29 | 06-11-2026| delay 10s...
-[1]Raita       |08:44:42 | 06-11-2026| [3/5] edbd5fee (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/mraitaa/status/2118625334158975787
-[1]Raita       |08:44:42 | 06-11-2026| delay 10s...
-[1]Raita       |08:44:54 | 06-11-2026| [4/5] 122ee3f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/mraitaa/status/2118625068914991621
-[1]Raita       |08:44:54 | 06-11-2026| delay 10s...
-[1]Raita       |08:45:06 | 06-11-2026| [5/5] 1366d543 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/mraitaa/status/2118625379680290774
-[1]Raita       |08:45:06 | 06-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Raita       |08:45:07 | 06-11-2026| [1/1] 6795f466 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118602712116027 | proof=https://x.com/mraitaa/status/2118625102405708405
+[1]Raita       |06:39:59 | 07-11-2026| [1/5] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/mraitaa/status/2118956301637297023
+[1]Raita       |06:39:59 | 07-11-2026| delay 10s...
+[1]Raita       |06:40:11 | 07-11-2026| [2/5] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/mraitaa/status/2118956246321975893
+[1]Raita       |06:40:11 | 07-11-2026| delay 10s...
+[1]Raita       |06:40:23 | 07-11-2026| [3/5] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/mraitaa/status/2118956304401631120
+[1]Raita       |06:40:23 | 07-11-2026| delay 10s...
+[1]Raita       |06:40:35 | 07-11-2026| [4/5] 3511b911 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/mraitaa/status/2118956449427756498
+[1]Raita       |06:40:35 | 07-11-2026| delay 10s...
+[1]Raita       |06:40:47 | 07-11-2026| [5/5] 3c85a813 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/mraitaa/status/2118956469644520387
+[1]Raita       |06:40:47 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Raita       |06:40:49 | 07-11-2026| [1/1] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118895980104015 | proof=https://x.com/mraitaa/status/2118956457182182658
 --> [1]Raita menjalankan: Watch Anime
-[1]Raita       |08:45:08 | 06-11-2026| watch: semua video sudah completed
+[1]Raita       |06:40:49 | 07-11-2026| watch: semua video sudah completed
 --> [1]Raita menjalankan: Read Article
-[1]Raita       |08:45:10 | 06-11-2026| news: 34/34 artikel selesai dibaca
-[1]Raita       |08:45:11 | 06-11-2026| mint eligibility: {"userId":"1886839087262523394","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mraitaa","status":"submitted","revision":"d81cea93-7df6-4d3b-b00d-bcaf2d2ca5c3",
-[1]Raita       |08:45:11 | 06-11-2026| news: semua artikel sudah dibaca
+[1]Raita       |06:40:51 | 07-11-2026| news: 34/34 artikel selesai dibaca
+[1]Raita       |06:40:52 | 07-11-2026| mint eligibility: {"userId":"1886839087262523394","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mraitaa","status":"submitted","revision":"d81cea93-7df6-4d3b-b00d-bcaf2d2ca5c3",
+[1]Raita       |06:40:52 | 07-11-2026| news: semua artikel sudah dibaca
 --> [1]Raita menjalankan: Quiz Anime
 --> [1]Raita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Raita       |08:45:15 | 06-11-2026| music: kedua misi sudah tercapai, stop
-[1]Raita       |08:45:16 | 06-11-2026| mission music-listens-10: sudah diklaim
-[1]Raita       |08:45:16 | 06-11-2026| mission music-minutes-30: sudah diklaim
-[1]Raita       |08:45:16 | 06-11-2026| mission anime-completed-3: sudah diklaim
+[1]Raita       |06:40:54 | 07-11-2026| music: kedua misi sudah tercapai, stop
+[1]Raita       |06:40:55 | 07-11-2026| mission music-listens-10: sudah diklaim
+[1]Raita       |06:40:55 | 07-11-2026| mission music-minutes-30: sudah diklaim
+[1]Raita       |06:40:55 | 07-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raita menjalankan: Claim Missions
-[1]Raita       |08:45:16 | 06-11-2026| mission music-listens-10: sudah diklaim
-[1]Raita       |08:45:16 | 06-11-2026| mission music-minutes-30: sudah diklaim
-[1]Raita       |08:45:16 | 06-11-2026| mission anime-completed-3: sudah diklaim
+[1]Raita       |06:40:55 | 07-11-2026| mission music-listens-10: sudah diklaim
+[1]Raita       |06:40:55 | 07-11-2026| mission music-minutes-30: sudah diklaim
+[1]Raita       |06:40:55 | 07-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raita menjalankan: Check Eligibility
 
 --- eligibility [1]Raita ---
-  @mraitaa | score=2820 rank=2816
-  tasks    [###-----------------] 1/6
+  @mraitaa | score=2880 rank=2748
+  tasks    [########------------] 3/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -59,17 +59,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Raita menjalankan: Read Manga
-[1]Raita       |08:45:21 | 06-11-2026| manga: 0/13 chapter belum completed
+[1]Raita       |06:40:59 | 07-11-2026| manga: 0/13 chapter belum completed
 --> [1]Raita menjalankan: Get Gift
-[1]Raita       |08:45:22 | 06-11-2026| gift: 3/9 belum diterima
-[1]Raita       |08:45:23 | 06-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Raita       |08:45:26 | 06-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Raita       |08:45:29 | 06-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Raita       |06:41:01 | 07-11-2026| gift: 3/9 belum diterima
+[1]Raita       |06:41:02 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Raita       |06:41:04 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Raita       |06:41:08 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Raita menjalankan: Setup Profile
-[1]Raita       |08:45:32 | 06-11-2026| profile: bio="https://x.com/mraitaa" fav=kagura rewardAt=1791693649
-[1]Raita       |08:45:32 | 06-11-2026| profile: bonus sudah diklaim, skip
+[1]Raita       |06:41:10 | 07-11-2026| profile: bio="https://x.com/mraitaa" fav=kagura rewardAt=1791693649
+[1]Raita       |06:41:10 | 07-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Raita menjalankan: Bind Wallet
-[1]Raita       |08:45:32 | 06-11-2026| wallet: sudah terikat DSGoE1KVcF... (solana)
+[1]Raita       |06:41:11 | 07-11-2026| wallet: sudah terikat DSGoE1KVcF... (solana)
 
 == RINGKASAN ==
 - Raita: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
